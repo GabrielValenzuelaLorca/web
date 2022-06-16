@@ -24,7 +24,7 @@
     "eject": "react-scripts eject",
     "electron": "electron ."
   },
-  "homepage": "https://gabrielvalenzuelalorca.github.io",
+  "homepage": "https://gabrielvalenzuelalorca.github.io/web",
   "eslintConfig": {
     "extends": [
       "react-app",
