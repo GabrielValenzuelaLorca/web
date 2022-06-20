@@ -27,7 +27,7 @@ function App() {
           <iframe width="420" height="315"
             frameBorder="0"
             allowFullScreen="allowFullScreen"
-            src="https://www.youtube.com/embed/tgbNymZ7vqY?autoplay=1&mute=1&disablekb=1&modestbranding=1&autohide=1&showinfo=0&controls=0&playsinline=1">
+            src="https://www.youtube.com/embed/b7igk962L3Y?autoplay=1&mute=1&disablekb=1&modestbranding=1&autohide=1&showinfo=0&controls=0&playsinline=1">
           </iframe> 
         :
         <div className='hero is-fullheight'>
