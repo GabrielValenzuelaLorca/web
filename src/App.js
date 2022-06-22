@@ -39,7 +39,7 @@ function App() {
               <img src={user} className={'user'}/>
               <div className="field text">
                 <div className="control">
-                  <input ref={inputRef} className="input is-small" type="password" 
+                  <input ref={inputRef} className="input is-small" type="text"
                     onKeyDown={e => {e.key === 'Enter' && onKeyDown()}}
                   />
                 </div>
